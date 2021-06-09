@@ -8,7 +8,6 @@
 ## 📈Currently working on
   - Problem Solving
   - Data Science Projects
-  - 
  
   
 ## ☘Currently learing
