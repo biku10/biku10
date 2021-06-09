@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**biku10/biku10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+  Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
+  
+  I have a passion for Data Science and Machine Learning with a keen interest in new technologies and enjoy working in a systematic and planned way. I love the field of Data Science, very fascinated by the fact that we can predict with Data.
+  
+## 📈Currently working on
+  - Problem Solving
+  - Data Science Projects
+  - 
+ 
+  
+## ☘Currently learing
+  - Deep Learning
+  - Automatic Speech Recognition
+  - DSA
+  
+## 🤔Where else you can find me?
+  - Hackerrank : https://www.hackerrank.com/RA1811027010045
+  - Linkedin : https://www.linkedin.com/in/bikrant-sen-a0010a173/
+  
+## 🤗What I do in my free time
+  - Love to explore different sides of myself.
+  - Pushing myself.
+  - Love clicking play video games and binge watch
+  
+## 📧How to Reach me
+  Drop me a mail at bikrant.sen@gmail.com
