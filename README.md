@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-  Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
+  Hey, I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
   
   I have a passion for Data Science and Machine Learning with a keen interest in new technologies and enjoy working in a systematic and planned way. I love the field of Data Science, very fascinated by the fact that we can predict with Data.
   
