@@ -32,7 +32,7 @@ A highly motivated and results-oriented Data Engineer with experience in designi
 
 **SRM Institute of Science and Technology** | Bachelor of Technology, Computer Science Engineering (specialization in Big Data) | Chennai, India | Jul 2018 - May 2022
 
-* CGPA: 8.8/10
+* CGPA: 9.8/10
 * Ranked 1st in Department of Data Science & Business Systems.
 * Awarded Merit Scholarships for academic excellence - SRMIST & Timken India Ltd.
 
